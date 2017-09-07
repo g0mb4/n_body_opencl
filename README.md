@@ -8,8 +8,8 @@ choose one of these at compilation:
 
 # compilation
 the following stuffs are needed in order to compile:
-n_body_opencl - OpenCL headers/libs
-n_body_opencl_glut - OpenCL headers/libs, freeglut headers/libs
+* n_body_opencl - OpenCL headers/libs
+* n_body_opencl_glut - OpenCL headers/libs, freeglut headers/libs
 
 # usage
 ```
